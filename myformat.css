@@ -50,6 +50,12 @@ th {
     border-radius: 10%;
 }
 
+.QR-img {
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .bg-grey {
     background-color: #f6f6f6;
 }
